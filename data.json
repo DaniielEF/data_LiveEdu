@@ -3,6 +3,7 @@
         {
             "id": "01",
             "title": "English for Begginers",
+            "image":"https://elearnever.se/vas/wp-content/uploads/2017/06/eng1.jpg",
             "price": 500,
             "instructor": "Juan Pérez",
             "description": "In this course, you will learn the basics of English grammar, pronunciation, and essential everyday expressions, starting from the most fundamental concepts.",
@@ -1243,6 +1244,7 @@
         {
         "id": "02",
         "title": "English for Intermediates",
+        "image": "https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2019_09_english.jpg",
         "price": 700,
         "instructor": "James Smith",
         "description": "This intermediate English course enhances your grammar, vocabulary, and conversation skills. You'll master complex structures like verb tenses, conditionals, and modal verbs, alongside essential phrasal verbs and idiomatic expressions. ",
