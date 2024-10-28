@@ -12,7 +12,8 @@
             "topics": [
                 { 
                     "id":"01",                    
-                    "title": "Basic grammar",
+                    "title": "Basic grammar - To be",
+                    "description":"Basic verb forms: be, do, have.",
                     "image_quiz": "https://i.ytimg.com/vi/wQM_JvYyyRc/maxresdefault.jpg",
                     "subtopics": [
                       {
@@ -249,6 +250,7 @@
                   {  
                     "id":"02",
                     "title": "Basic grammar - Simple present & Pronouns",
+                    "description":"Present tense actions and states of being.",
                     "image_quiz": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/05/24/simple-present-tensejpg-20210524012142.jpg",
                     "subtopics": [
                       {
@@ -476,7 +478,8 @@
                   },
                   {
                     "id":"03",
-                    "title": "Prepositions",
+                    "title": "Prepositions of time and position",
+                    "description":"Where and when things happen.",
                     "image_quiz": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIU_1oGR9NMWHcKQ9QjqsMeqUb7N63njfOt5JK47y_g022i7OXOsMQxOhl8EMjegdSmLXiaXpJsMsXVW5dMAX1owA9H5Hwhvpa-Wy5cDrw73vGFxEpyzX7P2N-ErpBXvOzCZSB18q_5GLJ/s640/In%252C+on%252C+at+-+Prepositions+triangle.jpg",
                     "subtopics": [
                       {
@@ -749,6 +752,7 @@
                   {
                     "id":"04",
                     "title": "Common Verbs & Expressions",
+                    "description":"Common phrases for everyday conversations.",
                     "image_quiz": "https://i.pinimg.com/originals/f5/07/79/f50779b4297da792bd513f1685feb696.jpg",
                     "subtopics": [
                       {
@@ -1253,6 +1257,7 @@
         "topics": [
              {   "id":"01",
                 "title": "Intermediate Grammar",
+                "description":"Actions completed in the past and hypothetical situations.",
                 "image_quiz": "https://i.ytimg.com/vi/GW1sOY8ynNQ/maxresdefault.jpg",
                 "subtopics": [
                   {
@@ -1499,6 +1504,7 @@
               },
               {   "id":"02",
                 "title": "Vocabulary Building",
+                "description":"Multi-word verbs with unique meanings.",
                 "image_quiz": "https://i.ytimg.com/vi/7eFiTRX4vts/maxresdefault.jpg",
                 "subtopics": [
                   {
@@ -1843,6 +1849,7 @@
               },
               {   "id":"03",
                 "title": "Conversation Skills:",
+                "description":"Expressing opinions, making suggestions, and debating ideas.",
                 "image_quiz": "https://friendshipbootcamp.com/images/friendship_bootcamp/18.png",
                 "subtopics": [
                   {
